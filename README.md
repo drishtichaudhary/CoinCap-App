@@ -25,6 +25,10 @@ CoinCap is a Flutter-based cryptocurrency price tracker app that uses the [CoinG
 
 ---
 
+## 📱Screenshots
+<img width="1915" height="864" alt="image" src="https://github.com/user-attachments/assets/d3232af7-08c3-4685-aa80-9ea380b874cb" />
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
